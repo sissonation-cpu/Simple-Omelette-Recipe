@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.recipe-container {
+    background-color: rgb(255, 255, 255);
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+div {
+    background-color: rgb(252, 229, 229);
+    padding-left: 30px;
+    padding-bottom: 20px;
+    line-height: 1.4;
+    border-radius: 8px;
+    padding-right: 50px;
+    margin-right: auto;
+    text-align: justify;
+}
+
+ul{
+   text-align: left;
+}
+
+h2{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: darkred;
+}
+.recipe-container{
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    color: darkred;
+    }
+table, th, td {
+    border-collapse: collapse;
+    text-align: justify;
+    border-bottom-style: solid;
+    margin: 0 auto;
+    align-items: center;
+    width: 80%;
+    border-color: brown;
+}
+th, td {
+    padding: 3px;
+}
